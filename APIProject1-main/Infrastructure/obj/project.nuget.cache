@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVJgml4/6tbO2e892KV40shWytoYLDsfGkivN1Wvx+SSSMHxGcY1hw7yD4fvRnZuNFAmLQk6XquUIJR+DFiYlA==",
+  "success": true,
+  "projectFilePath": "D:\\Soft-Club\\API\\APIProjects\\HomeTasks (September 2022 API)\\HomeTask1\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aston\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\Aston\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

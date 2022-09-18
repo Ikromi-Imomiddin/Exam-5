@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2ZU5fh8nk+EJD+sDSn3WwJUwAzq4vxZC5mlSF3r0PLm6u259dqf2z37E5gFEIpGCZ6LcV99TgEakZTy+FXBxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Exam C#\\Exam 5 --\\Infrastructura\\Infrastructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
